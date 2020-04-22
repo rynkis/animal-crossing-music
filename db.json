@@ -1,0 +1,20 @@
+[
+  {
+    "name": {
+      "en": "Welcome Horizons",
+      "cnZHS": "大家集合吧",
+      "jpJP": "みんなあつまれ"
+    },
+    "cover": "https://nookipedia.com/w/images/1/1d/AlbumArt-WelcomeHorizons.png",
+    "source": "https://nookipedia.com/w/images/9/93/NH_BGM_Audio_095_Minnaatsumare_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "Bubblegum K.K.",
+      "cnZHS": "K.K.偶像",
+      "jpJP": "けけアイドル"
+    },
+    "cover": "https://nookipedia.com/w/images/5/58/AlbumArt-Bubblegum_NH.png",
+    "source": "https://nookipedia.com/w/images/1/1b/NH_BGM_Audio_088_Idol_Hifi.flac"
+  }
+]
