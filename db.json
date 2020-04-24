@@ -16,5 +16,68 @@
     },
     "cover": "https://nookipedia.com/w/images/5/58/AlbumArt-Bubblegum_NH.png",
     "source": "https://nookipedia.com/w/images/1/1b/NH_BGM_Audio_088_Idol_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Blues",
+      "cnZHS": "K.K.蓝调",
+      "jpJP": "けけブルース"
+    },
+    "cover": "https://nookipedia.com/w/images/e/e2/AlbumArt-Blues_NH.png",
+    "source": "https://nookipedia.com/w/images/e/ea/NH_BGM_Audio_032_Blues_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Waltz",
+      "cnZHS": "K.K.圆舞曲",
+      "jpJP": "けけワルツ"
+    },
+    "cover": "https://nookipedia.com/w/images/b/b5/AlbumArt-Waltz_NH.png",
+    "source": "https://nookipedia.com/w/images/c/c4/NH_BGM_Audio_003_Waltz_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Rock",
+      "cnZHS": "K.K.摇滚",
+      "jpJP": "けけロック"
+    },
+    "cover": "https://nookipedia.com/w/images/3/3a/AlbumArt-Rock_NH.png",
+    "source": "https://nookipedia.com/w/images/b/b0/NH_BGM_Audio_027_Rock_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Jazz",
+      "cnZHS": "K.K.爵士乐",
+      "jpJP": "けけジャズ"
+    },
+    "cover": "https://nookipedia.com/w/images/0/0c/AlbumArt-Jazz_NH.png",
+    "source": "https://nookipedia.com/w/images/c/c2/NH_BGM_Audio_005_Jazz_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Folk",
+      "cnZHS": "K.K.民谣",
+      "jpJP": "けけみんよう"
+    },
+    "cover": "https://nookipedia.com/w/images/5/57/AlbumArt-Folk_NH.png",
+    "source": "https://nookipedia.com/w/images/6/69/NH_BGM_Audio_026_Minyo_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Disco",
+      "cnZHS": "K.K.迪斯科",
+      "jpJP": "けけディスコ"
+    },
+    "cover": "https://nookipedia.com/w/images/3/36/AlbumArt-Disco_NH.png",
+    "source": "https://nookipedia.com/w/images/f/fb/NH_BGM_Audio_090_Disco_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Sonata",
+      "cnZHS": "K.K.奏鸣曲",
+      "jpJP": "けけのソナタ"
+    },
+    "cover": "https://nookipedia.com/w/images/f/f2/AlbumArt-Sonata_NH.png",
+    "source": "https://nookipedia.com/w/images/3/32/NH_BGM_Audio_075_Sonata_Hifi.flac"
   }
 ]
