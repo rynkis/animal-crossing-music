@@ -79,5 +79,50 @@
     },
     "cover": "https://nookipedia.com/w/images/f/f2/AlbumArt-Sonata_NH.png",
     "source": "https://nookipedia.com/w/images/3/32/NH_BGM_Audio_075_Sonata_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Aria",
+      "cnZHS": "K.K.咏叹调",
+      "jpJP": "けけマリア"
+    },
+    "cover": "https://nookipedia.com/w/images/5/5a/AlbumArt-Aria_NH.png",
+    "source": "https://nookipedia.com/w/images/f/f1/NH_BGM_Audio_009_Maria_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "Only Me",
+      "cnZHS": "只有我",
+      "jpJP": "オンリーミー"
+    },
+    "cover": "https://nookipedia.com/w/images/d/d9/AlbumArt-OnlyMe_NH.png",
+    "source": "https://nookipedia.com/w/images/3/3f/NH_BGM_Audio_040_Onlyme_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "Drivin'",
+      "cnZHS": "兜风",
+      "jpJP": "ドライブ"
+    },
+    "cover": "https://nookipedia.com/w/images/e/ee/AlbumArt-Drivin.png",
+    "source": "https://nookipedia.com/w/images/e/e9/NH_BGM_Audio_093_Drive_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "Animal City",
+      "cnZHS": "动物城镇",
+      "jpJP": "どうぶつのまち"
+    },
+    "cover": "https://nookipedia.com/w/images/f/fb/AlbumArt-AnimalCity.png",
+    "source": "https://nookipedia.com/w/images/6/6f/NH_BGM_Audio_092_Town_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "Farewell",
+      "cnZHS": "再会",
+      "jpJP": "さよなら"
+    },
+    "cover": "https://nookipedia.com/w/images/5/5f/AlbumArt-Farewell.png",
+    "source": "https://nookipedia.com/w/images/b/b3/NH_BGM_Audio_094_Sayonara_Hifi.flac"
   }
 ]
