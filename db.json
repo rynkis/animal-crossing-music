@@ -124,5 +124,59 @@
     },
     "cover": "https://nookipedia.com/w/images/5/5f/AlbumArt-Farewell.png",
     "source": "https://nookipedia.com/w/images/b/b3/NH_BGM_Audio_094_Sayonara_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Adventure",
+      "cnZHS": "K.K.好莱坞",
+      "jpJP": "けけハリウッド"
+    },
+    "cover": "https://nookipedia.com/w/images/1/13/AlbumArt-Adventure_NH.png",
+    "source": "https://nookipedia.com/w/images/7/72/NH_BGM_Audio_080_Hollywood_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Ballad",
+      "cnZHS": "K.K.叙事歌谣",
+      "jpJP": "けけバラッド"
+    },
+    "cover": "https://nookipedia.com/w/images/c/c9/AlbumArt-Ballad_NH.png",
+    "source": "https://nookipedia.com/w/images/d/d4/NH_BGM_Audio_043_Ballad_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Bazaar",
+      "cnZHS": "K.K.吉普赛",
+      "jpJP": "けけロマ"
+    },
+    "cover": "https://nookipedia.com/w/images/a/a0/AlbumArt-Bazaar_NH.png",
+    "source": "https://nookipedia.com/w/images/4/4e/NH_BGM_Audio_082_Roma_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Bossa",
+      "cnZHS": "K.K.巴萨诺瓦",
+      "jpJP": "けけボッサ"
+    },
+    "cover": "https://nookipedia.com/w/images/a/ae/AlbumArt-Bossa_NH.png",
+    "source": "https://nookipedia.com/w/images/3/37/NH_BGM_Audio_011_Bossa_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Calypso",
+      "cnZHS": "K.K.卡利普索",
+      "jpJP": "けけカリプソ"
+    },
+    "cover": "https://nookipedia.com/w/images/6/61/AlbumArt-Calypso_NH.png",
+    "source": "https://nookipedia.com/w/images/f/fc/NH_BGM_Audio_012_Caripso_Hifi.flac"
+  },
+  {
+    "name": {
+      "en": "K.K. Casbah",
+      "cnZHS": "土耳其乐曲",
+      "jpJP": "トルコそんぐ"
+    },
+    "cover": "https://nookipedia.com/w/images/2/26/AlbumArt-Casbah_NH.png",
+    "source": "https://nookipedia.com/w/images/5/5d/NH_BGM_Audio_024_Turkey_Hifi.flac"
   }
 ]
